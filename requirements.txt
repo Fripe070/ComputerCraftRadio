@@ -1,0 +1,5 @@
+websockets
+fastapi
+uvicorn
+ffmpeg-python
+yt-dlp
